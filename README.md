@@ -4,10 +4,10 @@
 
 <img width="1914" height="939" alt="image" src="https://github.com/user-attachments/assets/c0248ca3-3452-4f95-ae02-00ee5fdcc2af" />
 
-##### 💻 Sobre o Projeto: Simulador de Freelancer
+#### 💻 Sobre o Projeto: Simulador de Freelancer
 Este projeto é uma aplicação web simples que simula uma plataforma de contratação de serviços de tecnologia. Ele permite que o usuário visualize diferentes categorias de especialistas, adicione serviços a um carrinho virtual e veja o cálculo do total em tempo real.
 
-#####🛠️ Estrutura Técnica
+###🛠️ Estrutura Técnica
 O projeto foi construído utilizando o trio fundamental do desenvolvimento Web: HTML5, CSS3 (referenciado como style.css) e JavaScript.
 
 1. Estrutura HTML (index.html)
