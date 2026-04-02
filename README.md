@@ -8,7 +8,7 @@
 Este projeto é uma aplicação web simples que simula uma plataforma de contratação de serviços de tecnologia. Ele permite que o usuário visualize diferentes categorias de especialistas, adicione serviços a um carrinho virtual e veja o cálculo do total em tempo real.
 
 🛠️ Estrutura Técnica
-O projeto foi construído utilizando o trio fundamental do desenvolvimento Web: HTML5, CSS3 (referenciado como style.css) e JavaScript.
+O projeto foi construído utilizando o trio fundamental do desenvolvimento Web: HTML5, CSS3 e JavaScript.
 
 1. Estrutura HTML (index.html)
 O arquivo HTML está dividido em blocos semânticos para melhor acessibilidade e SEO:
