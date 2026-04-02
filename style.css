@@ -1,0 +1,119 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(255, 255, 255);
+}
+
+header{
+    background-color:#333 ;
+    color: #0771a1;
+    text-align: center;
+    padding: 1rem 0;;
+}
+
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 0.1rem;
+    padding: 0.5rem 1rem;
+    background-color: #000000;
+    border-radius: 4px;
+}
+
+nav a:hover{
+    background-color: rgb(85, 7, 158);
+}
+
+main{
+    background-color: #ffffff;
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.Categoria{
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.Categoria img{
+    max-width: 40%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.preco{
+    font-weight: bold;
+    color: rgb(33, 3, 68);
+    margin-bottom: 1rem;
+}
+
+.adicionar{
+    background-color: rgb(138, 223, 54);
+    color:rgb(0, 0, 0);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.adicionar:hover{
+    background-color: rgb(135, 173, 70);
+}
+
+#Pedido{
+    background-color: #707070; 
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+#lista-pedido{
+    list-style: none;
+    padding: 0;
+}
+
+#Finalizar-Pedido{
+    background-color: rgb(160, 218, 103);
+    border: none;
+    color: #333;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#Finalizar-Pedido:hover{
+    background-color: rgb(78, 116, 40);
+}
+
+#Suporte{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.redes-sociais a{
+    background-color: rgb(2, 151, 144);
+    color: #333;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 0.5rem;
+}
+
+.redes-sociais a:hover{
+    background-color: #0838d4;
+}
+
+footer{
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: #fff;
+}
