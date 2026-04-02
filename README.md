@@ -7,7 +7,7 @@
 #### 💻 Sobre o Projeto: Simulador de Freelancer
 Este projeto é uma aplicação web simples que simula uma plataforma de contratação de serviços de tecnologia. Ele permite que o usuário visualize diferentes categorias de especialistas, adicione serviços a um carrinho virtual e veja o cálculo do total em tempo real.
 
-###🛠️ Estrutura Técnica
+🛠️ Estrutura Técnica
 O projeto foi construído utilizando o trio fundamental do desenvolvimento Web: HTML5, CSS3 (referenciado como style.css) e JavaScript.
 
 1. Estrutura HTML (index.html)
@@ -25,7 +25,7 @@ Seção "Suporte": Espaço para contato e redes sociais.
 
 <footer>: Rodapé com informações de direitos autorais e links de autoria (LinkedIn).
 
-##### 2. Lógica JavaScript (script.js)
+2. Lógica JavaScript (script.js)
 O script é responsável pela interatividade da página e funciona da seguinte forma:
 
 Mapeamento de Elementos: O código utiliza querySelectorAll e getElementById para identificar os botões de "Adicionar", a lista de pedidos e o visor do valor total.
@@ -44,7 +44,7 @@ Atualiza a variável global total e reflete esse valor na tela formatado com toF
 
 Finalização: O botão "Finalizar Pedido" dispara um alerta com o valor final e limpa a lista e o totalizador, resetando a interface para um novo uso.
 
-#####🚀 Funcionalidades Principais
+🚀 Funcionalidades Principais
 Seleção Dinâmica: Adicione múltiplos serviços sem recarregar a página.
 
 Cálculo Automático: O sistema soma os valores de cada hora trabalhada instantaneamente.
